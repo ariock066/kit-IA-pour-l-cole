@@ -1,0 +1,6 @@
+{
+  "name": "Générateur d'Ateliers Éducatifs",
+  "description": "Un outil interactif pour personnaliser et générer des prompts d'activités et d'exercices éducatifs adaptés aux enfants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
